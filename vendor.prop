@@ -133,6 +133,7 @@ ro.vendor.audio.voice.change.youme.support=true
 ro.audio.monitorRotation=true
 persist.vendor.audio.misound.disable=true
 persist.vendor.audio.delta.refresh=true
+debug.force_no_blanking=true
 
 # Audio volume steps
 ro.config.media_vol_steps=15
