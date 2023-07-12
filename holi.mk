@@ -427,6 +427,9 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
     hardware/xiaomi
 
+QCOM_SOONG_NAMESPACE := \
+    hardware/qcom-caf/sm8350
+
 # Telephony
 PRODUCT_PACKAGES += \
     ims-ext-common \
